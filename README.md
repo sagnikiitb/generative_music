@@ -1,4 +1,4 @@
-# generative_music
+# Generative Music
 This was a project I undertook in May of 2021. 
 Inspired by Brian Eno and his concept of generative music, I tried to apply my fascination towards generative grammar to build a program that generates new music everytime it is run.
 This project basically uses Stochastic Lindermayer Systems (L-Systems), a type of formal grammar used to generate fractals and natural objects like trees, to generate music.
